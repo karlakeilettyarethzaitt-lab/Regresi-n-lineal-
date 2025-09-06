@@ -1,0 +1,7 @@
+install.packages("readr")
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("boot")
+install.packages("QuantPsyc")
+install.packages("car")
+install.packages("conflicted")
